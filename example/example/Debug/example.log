@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\httpserver\example\example\main.cpp(513): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\time.h(505): note:  см. объявление "localtime"
+  example.vcxproj -> D:\HTTPServer\example\Debug\example.exe
+  example.vcxproj -> D:\HTTPServer\example\Debug\example.pdb (Partial PDB)
